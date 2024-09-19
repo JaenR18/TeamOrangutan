@@ -9,7 +9,7 @@ export const  App = () => {
                 <div className='title-orangutan'>Orangutan</div>
             </div>
             <div className='container-bottom'>
-                <div className='text'>2024 Team Orangutan</div>
+                <div className='text'>2024 © Team Orangutan</div>
                 <div className='text text-center'> <span>Web in construction</span></div>
                 <div className='text'>Managua , Nicaragua</div>
             </div>
