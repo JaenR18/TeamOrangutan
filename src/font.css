@@ -1,0 +1,15 @@
+@font-face {
+    font-family: AJQuadrata;
+    src: url("./resources/fonts/AJQuadrata-Bold.ttf") format("opentype");
+    font-weight: 900;
+}
+
+
+@font-face {
+    font-family: Rebond;
+    src: url("./resources/fonts/Rebond\ Grotesque\ Extrabold.otf") format("opentype");
+}
+@font-face {
+    font-family: Rebond-light;
+    src: url('./resources/fonts/Rebond\ Grotesque\ Light.otf') format('opentype')
+}
